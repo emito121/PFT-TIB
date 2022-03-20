@@ -1,0 +1,4 @@
+El valor obtenido de la medición es  14.00 ±  0.73 ms, con una confiabilidad del 68.2% 
+El valor real no sobrepasa los 60 ms. 
+La media de las muestras es  14.00 ms 
+La desviación estándar de las muestras es  1.79 ms

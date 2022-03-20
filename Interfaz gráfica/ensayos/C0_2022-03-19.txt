@@ -1,0 +1,4 @@
+El valor obtenido de la medición es  4.82 ±  0.27 s, con una confiabilidad del 68.2% 
+El valor real no sobrepasa los 15 s dado por la norma de tipo para desfibriladores manuales de uso frecuente. 
+La media de las muestras es  4.82 s 
+La desviación estándar de las muestras es  0.10 s
