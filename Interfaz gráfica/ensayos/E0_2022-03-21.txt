@@ -1,0 +1,4 @@
+El valor obtenido de la medición es  4.82 ±  0.19 J, con una confiabilidad del 68.2% 
+Los niveles de energía superan los permitidos de ± 3 J o 15 % la energía seteada 
+La media de las muestras es  4.82 J 
+La desviación estándar de las muestras es  0.10 J

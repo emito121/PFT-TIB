@@ -49,7 +49,7 @@ class Ensayo():
 
 class Energia(Ensayo):
 
-  def __init__(self, ubicacion, columna, expansion, energia, DEA, tStudent):
+  def __init__(self, ubicacion, columna, expansion, energia, tStudent):
     self.unidad = 'J'
     self.limite = 3
     self.exactitud = 0.01

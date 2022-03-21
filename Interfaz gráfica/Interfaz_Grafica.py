@@ -258,8 +258,7 @@ class Analisis(QDialog):
                 self.close()
                 self.ventanaResultados.exec_()
             except:
-                self.labelAdvertencia.setText('Algún valor ingresado es incorrecto')  
-            #     #C:\Users\enfil\Documents\UTEC\Semestre 6\PFT\Datos ensayo prueba.txt
+                self.labelAdvertencia.setText('Algún valor ingresado es incorrecto')
 
         if ensayoSelected == 'Tiempo de sincronización':
             try:
