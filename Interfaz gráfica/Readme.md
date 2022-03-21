@@ -11,4 +11,4 @@ $conda activate cardiodesf
 
 O simplemente instalar las librerias solicitadas en dependencias.yml a mano con pip.
 
-Ejecutar el script interfaz_grafic
+Ejecutar el script Interfaz Gráfica.py
