@@ -1,0 +1,12 @@
+name: cardiodesf
+channels:
+- defaults
+dependencies:
+- python>=3.9.7
+- pip
+- pip:
+  - pandas
+  - PyQt5
+  - python-time
+  - pandas
+  - numpy
